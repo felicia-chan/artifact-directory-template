@@ -3,5 +3,5 @@
     "project-repository": "https://github.com/scottasut/dsc180b-project.git",
     "dockerhub-repository": "ryandon/reddit-recommendation:latest",
     "project-website-url": "https://scottasut.github.io/dsc180b-project/",
-    "project-website-code": "https://scottasut.github.io/dsc180b-project/"
+    "project-website-code": "https://github.com/scottasut/dsc180b-project.git"
 }
